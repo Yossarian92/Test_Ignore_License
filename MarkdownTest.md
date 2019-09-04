@@ -52,8 +52,8 @@ ___
 <br/>
 
 1. 첫번째 수준  
-  * 1-1 수준
-    * 1-1-1 수준
+   * 1-1 수준
+     * 1-1-1 수준
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
 
