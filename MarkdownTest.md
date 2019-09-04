@@ -10,4 +10,4 @@
 
 **굵게쓰기**
 
-[링크](http://example.com "링크제목").
+[구글](http://google.com "링크제목").
