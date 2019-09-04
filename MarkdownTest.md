@@ -64,8 +64,9 @@ ___
 코드 블록
 ~~~
 
-```
-이것도 코드 블록
+```C
+int val = 10;
+printf();
 ```
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
