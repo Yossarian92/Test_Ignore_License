@@ -87,13 +87,15 @@ printf();
 
 ---
 
-Lending Staked Tokens<sup id="a1">[1](#f1)</sup> with No fees
+Lending Staked Tokens<sup id="각주1">[1](#f1)</sup> with No fees
 
 ㅁㄴㅇㅁㄴㅇ
-The cost for creating EOSIO network accounts is an entry barrier in developing DApps for securing users. For example, if the cost for creating an account is KRW 2,000<sup id="a2">[2](#f2)</sup>, a total of KRW 2 billion is required for creating a million accounts. eosBLACK minimizes user’s costs by providing the resources required for account creation, as well as 3Kbytes of RAM, free of charge.
+The cost for creating EOSIO network accounts is an entry barrier in developing DApps for securing users. For example, if the cost for creating an account is KRW 2,000<sup id="각주2">[2](#f2)</sup>, a total of KRW 2 billion is required for creating a million accounts. eosBLACK minimizes user’s costs by providing the resources required for account creation, as well as 3Kbytes of RAM, free of charge.
 
-><b id="f1"><sup>1</sup></b> Staked token in the system for computing source lending. [↩](#a1)<br>
-<b id="f2"><sup>2</sup></b> Cost for new account creation in eoshub https://eoshub.io/account/create?locale=ko [↩](#a2)<br>
+><b id="f1"><sup>1</sup></b> Staked token in the system for computing source lending. [↩](#각주1)<br>
+<b id="f2"><sup>2</sup></b> Cost for new account creation in eoshub https://eoshub.io/account/create?locale=ko [↩](#각주2)<br>
+
+
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
 
