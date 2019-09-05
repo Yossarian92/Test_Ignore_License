@@ -95,7 +95,7 @@ The cost for creating EOSIO network accounts is an entry barrier in developing D
 ><b id="f1"><sup>1</sup></b> Staked token in the system for computing source lending. [↩](#각주1)<br>
 <b id="f2"><sup>2</sup></b> Cost for new account creation in eoshub https://eoshub.io/account/create?locale=ko [↩](#각주2)<br>
 
-
+---
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
 
