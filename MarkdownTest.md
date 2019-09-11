@@ -99,4 +99,4 @@ The cost for creating EOSIO network accounts is an entry barrier in developing D
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
 
-1231
+
