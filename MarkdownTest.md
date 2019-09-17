@@ -46,7 +46,7 @@ ___
 1. 목록2
 1. 목록3
 
----
+
 
 혼합 리스트
 <br/>
@@ -86,7 +86,7 @@ printf();
 | Third row     | Cell that spans across two columns  ||
 [Table caption, works as a reference]
 
----
+
 
 Lending Staked Tokens<sup id="각주1">[1](#f1)</sup> with No fees
 
