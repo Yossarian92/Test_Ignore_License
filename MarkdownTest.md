@@ -1,15 +1,16 @@
 1.첫번째 문장
-2.두번째 문장  
-2(a).두번째 문장 보충
-
+2.두번째 문장  --
+2(a).두번째 문장 보충---
+------
 3.세번째 문장  
 4.네번째 문장  
 5.다섯번째 문장
 
 *기울여쓰기*
 
+
 **굵게쓰기**
----
+
 [구글](http://google.com "링크제목").
 
 [링크1][1] 과 [링크2][2]
@@ -45,12 +46,12 @@ ___
 1. 목록2
 1. 목록3
 
----
 
+---
 혼합 리스트
 <br/>
 <br/>
-
+---
 * 첫번째 수준  
    * 1-1 수준
      * 1-1-1 수준
@@ -85,7 +86,7 @@ printf();
 | Third row     | Cell that spans across two columns  ||
 [Table caption, works as a reference]
 
----
+
 
 Lending Staked Tokens<sup id="각주1">[1](#f1)</sup> with No fees
 
@@ -99,4 +100,4 @@ The cost for creating EOSIO network accounts is an entry barrier in developing D
 
 ![Instructure](https://github.com/Kelvin-IoT-2019-Summer/Project_UCSD/blob/bran/Instructure.jpg)
 
-
+---
